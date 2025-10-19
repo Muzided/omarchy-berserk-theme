@@ -1,0 +1,87 @@
+# ────────────────────────────────────────────────────────────
+# Bashtop theme - Omarchy Dark Red + Red-Orange Accents
+# Updated with red palette + #C75146 highlights
+# ────────────────────────────────────────────────────────────
+
+# Main background (empty for terminal default)
+theme[main_bg]=""
+
+# Main text color (light red for readability)
+theme[main_fg]="#AD2831"
+
+# Title color for boxes (red-orange gradient to red for emphasis)
+theme[title]="#C75146"  # new highlight color
+theme[title_end]="#800E13" # fade to strong red
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#C75146"  # highlight keys in red-orange
+
+# Background color of selected item in processes box (medium red)
+theme[selected_bg]="#800E13"
+
+# Foreground color of selected item in processes box (light red)
+theme[selected_fg]="#AD2831"
+
+# Color of inactive/disabled text (darkest red)
+theme[inactive_fg]="#250902"
+
+# Misc colors for processes box including mini CPU graphs, details memory graph and details status text
+theme[proc_misc]="#38040E"
+
+# CPU box outline color
+theme[cpu_box]="#38040E"
+
+# Memory/disks box outline color
+theme[mem_box]="#38040E"
+
+# Net up/down box outline color
+theme[net_box]="#38040E"
+
+# Processes box outline color
+theme[proc_box]="#38040E"
+
+# Box divider line and small boxes line color
+theme[div_line]="#640D14"
+
+# Temperature graph colors (gradient dark red → red-orange → red)
+theme[temp_start]="#250902"
+theme[temp_mid]="#800E13"
+theme[temp_end]="#C75146"  # red-orange highlight at peak
+
+# CPU graph colors
+theme[cpu_start]="#250902"
+theme[cpu_mid]="#38040E"
+theme[cpu_end]="#C75146"  # red-orange at high CPU usage
+
+# Mem/Disk free meter
+theme[free_start]="#250902"
+theme[free_mid]="#38040E"
+theme[free_end]="#800E13"
+
+# Mem/Disk cached meter
+theme[cached_start]="#250902"
+theme[cached_mid]="#38040E"
+theme[cached_end]="#800E13"
+
+# Mem/Disk available meter
+theme[available_start]="#250902"
+theme[available_mid]="#38040E"
+theme[available_end]="#800E13"
+
+# Mem/Disk used meter
+theme[used_start]="#250902"
+theme[used_mid]="#38040E"
+theme[used_end]="#C75146"  # red-orange highlight when memory is high
+
+# Download graph colors
+theme[download_start]="#250902"
+theme[download_mid]="#38040E"
+theme[download_end]="#C75146"
+
+# Upload graph colors
+theme[upload_start]="#250902"
+theme[upload_mid]="#38040E"
+theme[upload_end]="#C75146"
+
+# Optional accent for special highlights (warnings, alerts)
+theme[accent_fg]="#C75146"  # red-orange accent
