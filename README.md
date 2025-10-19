@@ -1,6 +1,6 @@
 # ⚔️ Berserk Theme for Omarchy
 
-A dark, intense theme inspired by *Berserk* and [Omarchy](https://omarchy.org) — capturing raw emotion, somber tones, and relentless atmosphere.  
+A dark, intense theme inspired by *Berserk* for [Omarchy](https://omarchy.org) — capturing raw emotion, somber tones, and relentless atmosphere.  
 Forged to immerse you in **struggle**, **resolve**, and the **beauty within chaos**.
 
 > *“Tell him the Black Swordsman has come.”*
